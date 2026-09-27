@@ -18,6 +18,8 @@ C-Programs/
 ├── Calculator.c
 ├── Armstrong-Number.c
 ├── Palindrome-Number.c
+├── Check-Vowel-or-Consonant.c
+├── Two-Matrix-Sum.c
 ├── prime.c
 ├── fibonacci.c
 └── ...
