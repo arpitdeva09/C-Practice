@@ -20,8 +20,8 @@ C-Programs/
 ├── Palindrome-Number.c
 ├── Check-Vowel-or-Consonant.c
 ├── Two-Matrix-Sum.c
-├── prime.c
-├── fibonacci.c
+├── Prime.c
+├── Fibonacci.c
 └── ...
 ```
 
