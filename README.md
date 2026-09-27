@@ -15,13 +15,11 @@ C-Programs/
 │
 ├── README.md
 ├── hello.c
-├── Calculator.c
-├── Armstrong-Number.c
-├── Palindrome-Number.c
-├── Check-Vowel-or-Consonant.c
-├── Two-Matrix-Sum.c
-├── Prime.c
-├── Fibonacci.c
+├── calculator.c
+├── factorial.c
+├── palindrome.c
+├── prime.c
+├── fibonacci.c
 └── ...
 ```
 
@@ -386,3 +384,9 @@ The programs are intended to be simple and beginner-friendly.
 If you are new to programming, start with the basic programs and gradually move toward more advanced topics.
 
 Happy Coding! 🚀
+
+---
+
+## 🙏 Thanks for Visiting!
+
+Thanks for visiting **arpitdeva09's GitHub repository**! ❤️
